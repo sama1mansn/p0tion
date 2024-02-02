@@ -1,7 +1,7 @@
 {
     "root": true,
     "env": {
-        "es6": true
+        "es6":false
     },
     "extends": ["airbnb-base", "airbnb-typescript/base", "plugin:jest/recommended", "plugin:jest/style", "prettier"],
     "parser": "@typescript-eslint/parser",
